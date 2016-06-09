@@ -103,7 +103,6 @@ textarea {
 .header {
   background-color: #2ec4b6;
   color: #fff;
-  margin-top: 30px;
 }
 
 .navigation {
@@ -150,6 +149,11 @@ h1 {
   padding: 0px;
   margin: 0px;
   font-weight: normal;
+}
+
+h1 a{
+  text-decoration: none;
+  color: white;
 }
 
 h2 {
@@ -221,6 +225,8 @@ h3 {
 .image{
   width: 300px;
   float: right;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
 }
 
 .clear {
